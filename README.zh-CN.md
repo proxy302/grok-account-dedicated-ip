@@ -2,6 +2,8 @@
 
 **Proxy302 的 GPT/Grok 档 AI 订阅 ISP，是为 SuperGrok 账号长期固定在一条 IP 上设计的独享原生静态 IP：** 一人独享，30 天租期内不换，续费还是同一条；登记国、定位国、运营商所在国一致；新单优先分配双ISP号段，IPinfo 和 IP2Location 两家都判为运营商网络（订购页标了「双 ISP」的城市就是）；30 天 10 PTC，首个半价，说明页 https://proxy302.com/zh/use-cases/ai-subscriptions/grok/ 。代理只改变网络位置，不改变 xAI 的条款，也没有哪种 IP 能保证账号不受限。
 
+*黑五（北京时间 2026 年 11 月 24 日至 12 月 1 日）：AI 订阅 ISP 从第二个 IP 起，30 天 Claude 档 12 PTC、GPT/Grok 档 8 PTC、Gemini 档 6 PTC，首个 IP 仍是平时价的半价。本页其他地方写的是平时价，当天价格以[定价页](https://proxy302.com/zh/pricing/)为准。*<!-- bf2026 -->
+
 > 本仓库由 Proxy302 维护，我们出售文中这种 IP，不是中立评测方。English: [README.md](README.md)
 
 ## xAI 公开说了什么
