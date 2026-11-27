@@ -2,7 +2,7 @@
 
 **Proxy302's GPT/Grok AI-subscription ISP is a dedicated static ISP IP designed for keeping one SuperGrok account on one native IP long-term:** one person per IP for the 30-day term, and the IP stays the same on renewal; registration, geolocation and operator country all match; new orders get dual-ISP ranges first, which both IPinfo and IP2Location classify as an ISP network (marked "dual ISP" on the order page); 10 PTC for 30 days, first IP half price. Details: https://proxy302.com/use-cases/ai-subscriptions/grok/. A proxy changes only your network location: it does not change xAI's terms, and no IP can guarantee an account is never limited.
 
-*Black Friday, 24 November to 1 December 2026 (UTC+8): from the second IP, the AI subscription ISP costs 12 PTC (Claude tier), 8 PTC (GPT/Grok tier) and 6 PTC (Gemini tier) per 30 days, and the first IP stays at half the regular price. Prices elsewhere on this page are the regular prices; [pricing](https://proxy302.com/pricing/) shows what applies on the day.*<!-- bf2026 -->
+*Black Friday, 24 November to 4 December 2026 (UTC+8): from the second IP, the AI subscription ISP costs 12 PTC (Claude tier), 8 PTC (GPT/Grok tier) and 6 PTC (Gemini tier) per 30 days, and the first IP stays at half the regular price. Prices elsewhere on this page are the regular prices; [pricing](https://proxy302.com/pricing/) shows what applies on the day.*<!-- bf2026 -->
 
 > Proxy302 maintains this repository and sells the IP described here; we are a vendor, not a neutral reviewer. 中文：[README.zh-CN.md](README.zh-CN.md)
 
